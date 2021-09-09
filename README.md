@@ -33,20 +33,20 @@
 
 ### Frameworks, libraries, and engines
 
-- [Processing](https://processing.org/) [Mac, Win, Linux, Android]
-- [Processing Python Mode](https://py.processing.org/) [Mac, Win, Linux]
-- [p5.js](https://p5js.org/) [Web]
-- [Paper.js](https://paperjs.org/) [Web]
-- [three.js](https://threejs.org/) [Web]
-- [OpenFrameworks](https://openframeworks.cc/) [Mac, Win, Linux, iOS, Android]
-- [Cinder](https://libcinder.org/) [Mac, Win, Linux, iOS, Android]
-- [Unity](https://unity.com/) [Mac, Win]
-- [KodeLife](https://hexler.net/kodelife) [Mac, Win, Linux]
+- [Processing](https://processing.org/) - [Mac, Win, Linux, Android]
+- [Processing Python Mode](https://py.processing.org/) - [Mac, Win, Linux]
+- [p5.js](https://p5js.org/)
+- [Paper.js](https://paperjs.org/)
+- [three.js](https://threejs.org/)
+- [OpenFrameworks](https://openframeworks.cc/) - [Mac, Win, Linux, iOS, Android]
+- [Cinder](https://libcinder.org/) - [Mac, Win, Linux, iOS, Android]
+- [Unity](https://unity.com/) - [Mac, Win]
+- [KodeLife](https://hexler.net/kodelife) - [Mac, Win, Linux]
 
 ### Software
 
 - [VDMX](https://vidvox.net/) [Mac]
-- [Resolume](https://resolume.com/) [Mac, Win]
+- [Resolume](https://resolume.com/) - [Mac, Win]
 - [Modul8](https://www.garagecube.com/modul8/) [Mac]
 - [CoGe VJ](https://imimot.com/cogevj/) [Mac]
 - [MadMapper](https://www.madmapper.com/) [Mac]
@@ -55,32 +55,32 @@
 - [Vuo](https://vuo.org/) [Mac]
 - [Apple Core Graphics](https://developer.apple.com/documentation/coregraphics) [Mac]
 - [vvvv](https://vvvv.org/) [Win]
-- [TouchDesigner](https://derivative.ca/) [Mac, Win]
-- [Max](https://cycling74.com/products/max/) [Mac, Win]
-- [Pure Data](https://puredata.info/) [Mac, Win, Linux]
+- [TouchDesigner](https://derivative.ca/) - [Mac, Win]
+- [Max](https://cycling74.com/products/max/) - [Mac, Win]
+- [Pure Data](https://puredata.info/) - [Mac, Win, Linux]
 
 ### Codecs
 
-- [DXV codec](https://resolume.com/download/) [Mac, Win]
-- [HAP codec](https://github.com/Vidvox/hap-qt-codec) [Mac, Win]
+- [DXV codec](https://resolume.com/download/) - [Mac, Win]
+- [HAP codec](https://github.com/Vidvox/hap-qt-codec) - [Mac, Win]
 
 ### Seqensors
 
 - [Vezér](https://imimot.com/vezer/) [Mac]
-- [Ableton Live](https://www.ableton.com/) [Mac, Win]
+- [Ableton Live](https://www.ableton.com/) - [Mac, Win]
 - [D3](https://www.d3technologies.com/)
 
 ### Sound programming languages
 
-- [SuperCollider](https://supercollider.sourceforge.net/) [Mac, Win, Linux]
-- [ChucK](https://chuck.cs.princeton.edu/) [Mac, Win, Linux]
-- [TidalCycles](https://tidalcycles.org/) [Mac, Win, Linux]
-- [Sonic Pi](https://sonic-pi.net/) [Mac, Win, Linux, Raspberry Pi]
-- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) [Mac, Win]
+- [SuperCollider](https://supercollider.sourceforge.net/) - [Mac, Win, Linux]
+- [ChucK](https://chuck.cs.princeton.edu/) - [Mac, Win, Linux]
+- [TidalCycles](https://tidalcycles.org/) - [Mac, Win, Linux]
+- [Sonic Pi](https://sonic-pi.net/) - [Mac, Win, Linux, Raspberry Pi]
+- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - [Mac, Win]
 
 ### Software controllers
 
-- [TouchOSC](https://hexler.net/touchosc) [iOS, Android]
+- [TouchOSC](https://hexler.net/touchosc) - [iOS, Android]
 
 ### Video tools
 
@@ -169,27 +169,26 @@
 - [Creative Coding](https://www.futurelearn.com/courses/creative-coding/)
 - [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
 - [Learn to Code Electronic Music Tools with Javascript](https://www.futurelearn.com/courses/electronic-music-tools)
-- [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info) [ml]
-- [Machine Learning for Artists](https://ml4a.github.io/index/) [ml]
-- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info) [ml]
+- [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+- [Machine Learning for Artists](https://ml4a.github.io/index/)
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 - [Pixar in a Box - Effects](https://www.khanacademy.org/partner-content/pixar/effects)
 - [Programming MAX: Structuring Interactive Software for Digital Arts](https://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
 - [inconvergent · A Study of Generative Algorithms](https://inconvergent.net/)
-- [Building a Real Application With Kinect](https://www.pluralsight.com/courses/building-real-kinect-application) [kinect]
-- [Kinect Interaction with WPF and Beyond](https://www.pluralsight.com/courses/using-kinect-interaction-wpf) [kinect]
-- [Developing for Leap Motion in C#](https://www.pluralsight.com/courses/developing-leap-motion-csharp) [leap motion]
-- [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) [audio, chuck]
-- [Sound Synthesis Using Reaktor](https://www.kadenze.com/courses/sound-synthesis-using-reaktor/info) [audio, reaktor]
-- [The Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info) [p5.js]
-- [Introduction to Programming for Musicians and Digital Artists](https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info) [audio, chuck]
-- [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) [p5.js]
-- [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform) [arduino]
-- [Interfacing with the Arduino](https://www.coursera.org/learn/interface-with-arduino) [arduino]
-- [3D Models for Virtual Reality](https://www.coursera.org/learn/3d-models-virtual-reality) [vr, unity]
-- [Games, Sensors and Media](https://www.coursera.org/learn/games) [ios]
-- [How Virtual Reality (VR) Works](https://www.edx.org/course/how-virtual-reality-vr-works-uc-san-diegox-cse165x-0) [vr]
-- [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) [3d, webgl, three.js]
+- [Building a Real Application With Kinect](https://www.pluralsight.com/courses/building-real-kinect-application)
+- [Kinect Interaction with WPF and Beyond](https://www.pluralsight.com/courses/using-kinect-interaction-wpf)
+- [Developing for Leap Motion in C#](https://www.pluralsight.com/courses/developing-leap-motion-csharp)
+- [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info)
+- [Sound Synthesis Using Reaktor](https://www.kadenze.com/courses/sound-synthesis-using-reaktor/info)
+- [The Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
+- [Introduction to Programming for Musicians and Digital Artists](https://www.kadenze.com/courses/introduction-to-programming-for-musicians-and-digital-artists/info)
+- [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
+- [Interfacing with the Arduino](https://www.coursera.org/learn/interface-with-arduino)
+- [3D Models for Virtual Reality](https://www.coursera.org/learn/3d-models-virtual-reality)
+- [Games, Sensors and Media](https://www.coursera.org/learn/games) 
+- [How Virtual Reality (VR) Works](https://www.edx.org/course/how-virtual-reality-vr-works-uc-san-diegox-cse165x-0)
+- [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 
 ## Websites
 
@@ -250,12 +249,7 @@
 
 Contributions are very welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-
-## Thanks!
+## Thanks
 
 I hope you found this resource helpful! My name is Rob and I'm a generative artist myself so I do try to keep this up-to-date as I find new things. I could always use more help with that so feel free to submit a pull request, file an issue (even for new ideas), or reach out on social media.
 
