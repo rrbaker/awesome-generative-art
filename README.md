@@ -1,5 +1,6 @@
-# Awesome Generative Art 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Generative Art
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Manually curated collection of Generative Art languages, tools, educational, and other resources.
 
@@ -33,59 +34,59 @@
 
 ### Frameworks, libraries, and engines
 
-- [Processing](https://processing.org/) - [Mac, Win, Linux, Android]
-- [Processing Python Mode](https://py.processing.org/) - [Mac, Win, Linux]
+- [Processing](https://processing.org/) - [Mac, Win, Linux, Android].
+- [Processing Python Mode](https://py.processing.org/) - [Mac, Win, Linux].
 - [p5.js](https://p5js.org/)
 - [Paper.js](https://paperjs.org/)
 - [three.js](https://threejs.org/)
-- [OpenFrameworks](https://openframeworks.cc/) - [Mac, Win, Linux, iOS, Android]
-- [Cinder](https://libcinder.org/) - [Mac, Win, Linux, iOS, Android]
-- [Unity](https://unity.com/) - [Mac, Win]
-- [KodeLife](https://hexler.net/kodelife) - [Mac, Win, Linux]
+- [OpenFrameworks](https://openframeworks.cc/) - [Mac, Win, Linux, iOS, Android].
+- [Cinder](https://libcinder.org/) - [Mac, Win, Linux, iOS, Android].
+- [Unity](https://unity.com/) - [Mac, Win].
+- [KodeLife](https://hexler.net/kodelife) - [Mac, Win, Linux].
 
 ### Software
 
 - [VDMX](https://vidvox.net/) [Mac]
 - [Resolume](https://resolume.com/) - [Mac, Win]
-- [Modul8](https://www.garagecube.com/modul8/) [Mac]
-- [CoGe VJ](https://imimot.com/cogevj/) [Mac]
-- [MadMapper](https://www.madmapper.com/) [Mac]
-- [Mitti](https://imimot.com/mitti/) [Mac]
-- [TouchViZ](https://hexler.net/touchviz) [iOS]
+- [Modul8](https://www.garagecube.com/modul8/) - [Mac].
+- [CoGe VJ](https://imimot.com/cogevj/) - [Mac].
+- [MadMapper](https://www.madmapper.com/) - [Mac].
+- [Mitti](https://imimot.com/mitti/) - [Mac].
+- [TouchViZ](https://hexler.net/touchviz) - [iOS].
 - [Vuo](https://vuo.org/) [Mac]
-- [Apple Core Graphics](https://developer.apple.com/documentation/coregraphics) [Mac]
+- [Apple Core Graphics](https://developer.apple.com/documentation/coregraphics) - [Mac].
 - [vvvv](https://vvvv.org/) [Win]
-- [TouchDesigner](https://derivative.ca/) - [Mac, Win]
-- [Max](https://cycling74.com/products/max/) - [Mac, Win]
-- [Pure Data](https://puredata.info/) - [Mac, Win, Linux]
+- [TouchDesigner](https://derivative.ca/) - [Mac, Win].
+- [Max](https://cycling74.com/products/max/) - [Mac, Win].
+- [Pure Data](https://puredata.info/) - [Mac, Win, Linux].
 
 ### Codecs
 
-- [DXV codec](https://resolume.com/download/) - [Mac, Win]
-- [HAP codec](https://github.com/Vidvox/hap-qt-codec) - [Mac, Win]
+- [DXV codec](https://resolume.com/download/) - [Mac, Win].
+- [HAP codec](https://github.com/Vidvox/hap-qt-codec) - [Mac, Win].
 
 ### Seqensors
 
-- [Vezér](https://imimot.com/vezer/) [Mac]
-- [Ableton Live](https://www.ableton.com/) - [Mac, Win]
+- [Vezér](https://imimot.com/vezer/) - [Mac].
+- [Ableton Live](https://www.ableton.com/) - [Mac, Win].
 - [D3](https://www.d3technologies.com/)
 
 ### Sound programming languages
 
-- [SuperCollider](https://supercollider.sourceforge.net/) - [Mac, Win, Linux]
-- [ChucK](https://chuck.cs.princeton.edu/) - [Mac, Win, Linux]
-- [TidalCycles](https://tidalcycles.org/) - [Mac, Win, Linux]
-- [Sonic Pi](https://sonic-pi.net/) - [Mac, Win, Linux, Raspberry Pi]
-- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - [Mac, Win]
+- [SuperCollider](https://supercollider.sourceforge.net/) - [Mac, Win, Linux].
+- [ChucK](https://chuck.cs.princeton.edu/) - [Mac, Win, Linux].
+- [TidalCycles](https://tidalcycles.org/) - [Mac, Win, Linux].
+- [Sonic Pi](https://sonic-pi.net/) - [Mac, Win, Linux, Raspberry Pi].
+- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - [Mac, Win].
 
 ### Software controllers
 
-- [TouchOSC](https://hexler.net/touchosc) - [iOS, Android]
+- [TouchOSC](https://hexler.net/touchosc) - [iOS, Android].
 
 ### Video tools
 
-- [Syphon](https://syphon.v002.info/) [Mac]
-- [Spout](https://spout.zeal.co/) [Win]
+- [Syphon](https://syphon.v002.info/) - [Mac].
+- [Spout](https://spout.zeal.co/) - [Win].
 
 ### Hardware
 
@@ -95,22 +96,22 @@
 - [Arduino](https://www.arduino.cc/)
 
 ## Educational Resources
-### Books
-#### Theory
 
-- [New Media Art](https://amzn.to/2nREjXO) [history]
-- [Art and Electronic Media](https://amzn.to/2pmAMk1) [history]
-- [Aesthetics of Interaction in Digital Art](https://amzn.to/2oAJwAd) [history]
-- [Aesthetic Computing](https://amzn.to/2oD6Nof) [history]
-- [Internet Art (World of Art)](https://amzn.to/2ogksgV) [history]
-- [Digital Art (World of Art)](https://amzn.to/2ok0AbT) [history]
-- [Digital Arts: An Introduction to New Media (Berg New Media Series)](https://amzn.to/2pFJ9no) [history]
-- [Art Pocket Digital Art](https://amzn.to/2pFIMcm) [history]
-- [The World of Digital Art](https://amzn.to/2nRPHmt) [history]
-- [Form+Code in Design, Art, and Architecture](https://amzn.to/2oDxLdS) [history]
-- [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://amzn.to/2nFocI1) [history]
+### Books, Theory
 
-#### Practice
+- [New Media Art](https://amzn.to/2nREjXO)
+- [Art and Electronic Media](https://amzn.to/2pmAMk1)
+- [Aesthetics of Interaction in Digital Art](https://amzn.to/2oAJwAd)
+- [Aesthetic Computing](https://amzn.to/2oD6Nof)
+- [Internet Art (World of Art)](https://amzn.to/2ogksgV)
+- [Digital Art (World of Art)](https://amzn.to/2ok0AbT)
+- [Digital Arts: An Introduction to New Media (Berg New Media Series)](https://amzn.to/2pFJ9no)
+- [Art Pocket Digital Art](https://amzn.to/2pFIMcm)
+- [The World of Digital Art](https://amzn.to/2nRPHmt)
+- [Form+Code in Design, Art, and Architecture](https://amzn.to/2oDxLdS)
+- [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://amzn.to/2nFocI1)
+
+### Books, Practice
 
 - [The Nature of Code: Simulating Natural Systems with Processing](https://natureofcode.com/)
 - [Generative Design: Visualize, Program, and Create with Processing (2012)](https://www.amazon.com/Generative-Design-Visualize-Program-Processing/dp/1616890770)
@@ -124,7 +125,7 @@
 - [Visualizing Data](https://amzn.to/2p2j29Y)
 - [The SparkFun Guide to Processing](https://amzn.to/2oEtQOS)
 - [Processing: Creative Coding and Generative Art in Processing 2](https://amzn.to/2nc3nrY)
-- [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](https://amzn.to/2oEdTZ5) [processing]
+- [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](https://amzn.to/2oEdTZ5)
 - [Processing: Creative Coding and Computational Art (Foundation)](https://amzn.to/2oEoPpI)
 - [The Essential Guide to Processing for Flash Developers](https://amzn.to/2oErakj)
 - [Programming Interactivity](https://amzn.to/2oK1b8h)
@@ -137,14 +138,14 @@
 - [Kinect Hacks: Tips & Tools for Motion and Pattern Detection](https://amzn.to/2oANjO4)
 - [Beginning Microsoft Kinect for Windows SDK 2.0: Motion and Depth Sensing for Natural User Interfaces](https://amzn.to/2oDy7Bs)
 - [Kinect for Windows SDK Programming Guide](https://amzn.to/2oDt8AJ)
-- [Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java](https://amzn.to/2ok5shf) [kinect]
+- [Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java](https://amzn.to/2ok5shf)
 - [Human Gait Recognition Using Body Measures and Joints Angles: A Study Using Microsoft Kinect](https://amzn.to/2oDmxq2)
-- [Beginning Kinect Programming with the Microsoft Kinect SDK (Expert's Voice in Microsoft)](https://amzn.to/2nRIvGY) [kinect]
+- [Beginning Kinect Programming with the Microsoft Kinect SDK (Expert's Voice in Microsoft)](https://amzn.to/2nRIvGY)
 - [Arduino and Kinect Projects: Design, Build, Blow Their Minds (Technology in Action)](https://amzn.to/2oDE4yp)
 - [Programming with the Kinect for Windows Software Development Kit (Developer Reference)](https://amzn.to/2oASRYZ)
 - [Augmented Reality with Kinect](https://amzn.to/2nRIAKD)
-- [Meet the Kinect: An Introduction to Programming Natural User Interfaces (Technology in Action)](https://amzn.to/2nRWdcQ) [kinect]
-- [Hacking the Kinect (Technology in Action)](https://amzn.to/2ogm0ru) [kinect]
+- [Meet the Kinect: An Introduction to Programming Natural User Interfaces (Technology in Action)](https://amzn.to/2nRWdcQ)
+- [Hacking the Kinect (Technology in Action)](https://amzn.to/2ogm0ru)
 - [Learning Quartz Composer: A Hands-On Guide to Creating Motion Graphics with Quartz Composer](https://amzn.to/2oNmE2x)
 - [Rapid Android Development: Build Rich, Sensor-Based Applications with Processing](https://pragprog.com/book/dsproc/rapid-android-development)
 - [Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make)](https://amzn.to/2oD95Uc)
@@ -155,7 +156,6 @@
 - [Processing - eine Einführung in die Programmierung (De)](https://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html)
 - [Programming for Artists (Ru) FREE](https://ptahi.ru/2016/02/07/programming-for-artists/)
 - [Prototyping Interfaces: Interaktives Skizzieren mit vvvv](https://amzn.to/2p7FMJy)
-
 
 ### Courses
 
