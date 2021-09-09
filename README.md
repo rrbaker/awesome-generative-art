@@ -1,61 +1,49 @@
 # Awesome Generative Art 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Manually curated collection of Generative Art resources, tools and shiny things.
+> Manually curated collection of Generative Art languages, tools, educational, and other resources.
 
+> The list is slightly (and subjectively) curated in that you'll find some resources in bold. If you're completely new to generative art, those resources are the "start here" links to help you learn and connect with other artists in this space. And, welcome! :grinning:
 
 ## Contents
 
 - [Tools](#tools)
-    - [Visual programming languages](#visual-programming-languages)
-    - [Frameworks, Libraries, Engines, Languages](#frameworks-libraries-engines-languages)
-    - [VJing software](#vjing-software)
+    - [Frameworks, Libraries, and Engines](#frameworks-libraries-engines)
+    - [Software](#software)
     - [Codecs](#codecs)
     - [Seqensors](#seqensors)
     - [Sound programming languages](#sound-programming-languages)
     - [Software controllers](#software-controllers)
     - [Other tools](#other-tools)
     - [Hardware](#hardware)
-        - [Platforms](#platforms)
-        - [Controllers](#controllers)
-- [Learning Resources](#learning-resources)
+- [Educational Resources](#educational-resources)
     - [Books](#books)
         - [Theory](#theory)
         - [Practice](#practice)
     - [Courses](#courses)
-- [Video Channels](#video-channels)
-- [Selected artists](#selected-artists)
+- [Video Channels and Livestreams](#video-channels-livestreams)
+- [Blogs and Newsletters](#blogs-newsletters)
+- [Marketplaces](#marketplaces)
+- [Websites](#websites)
 - [Communities](#communities)
-- [Work](#work)
-- [Events](#events)
-- [Press](#press)
+- [Media](#media)
 
 
 ## Tools
 
-### Visual programming languages
-
-- [vvvv](https://vvvv.org/) [Win]
-- [Touch designer](https://www.derivative.ca/) [Mac, Win]
-- [Max](https://cycling74.com/products/max/) [Mac, Win]
-- [Pure Data](https://puredata.info/) [Mac, Win, Linux]
-- [Quartz Composer](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]
-- [Vuo](https://vuo.org/) [Mac]
-
-
-### Frameworks, libraries, engines, languages
+### Frameworks, libraries, and engines
 
 - [Processing](https://processing.org/) [Mac, Win, Linux, Android]
 - [Processing Python Mode](https://py.processing.org/) [Mac, Win, Linux]
+- [p5.js](https://p5js.org/) [Web]
+- [Paper.js](https://paperjs.org/) [Web]
+- [three.js](https://threejs.org/) [Web]
 - [OpenFrameworks](https://openframeworks.cc/) [Mac, Win, Linux, iOS, Android]
 - [Cinder](https://libcinder.org/) [Mac, Win, Linux, iOS, Android]
-- [three.js](https://threejs.org/) [Web]
-- [Paper.js](https://paperjs.org/) [Web]
-- [p5.js](https://p5js.org/) [Web]
 - [Unity](https://unity.com/) [Mac, Win]
 - [KodeLife](https://hexler.net/kodelife) [Mac, Win, Linux]
 
-### Vjing software
+### Software
 
 - [VDMX](https://vidvox.net/) [Mac]
 - [Resolume](https://resolume.com/) [Mac, Win]
@@ -64,6 +52,12 @@
 - [MadMapper](https://www.madmapper.com/) [Mac]
 - [Mitti](https://imimot.com/mitti/) [Mac]
 - [TouchViZ](https://hexler.net/touchviz) [iOS]
+- [Vuo](https://vuo.org/) [Mac]
+- [Apple Core Graphics](https://developer.apple.com/documentation/coregraphics) [Mac]
+- [vvvv](https://vvvv.org/) [Win]
+- [TouchDesigner](https://derivative.ca/) [Mac, Win]
+- [Max](https://cycling74.com/products/max/) [Mac, Win]
+- [Pure Data](https://puredata.info/) [Mac, Win, Linux]
 
 ### Codecs
 
@@ -88,27 +82,20 @@
 
 - [TouchOSC](https://hexler.net/touchosc) [iOS, Android]
 
-### Other tools
+### Video tools
 
 - [Syphon](https://syphon.v002.info/) [Mac]
 - [Spout](https://spout.zeal.co/) [Win]
 
 ### Hardware
 
-#### Platforms
-
-- [Arduino](https://www.arduino.cc/)
-- [Raspberry Pi](https://www.raspberrypi.org/)
-
-#### Controllers
-
 - [Kinect](https://developer.microsoft.com/en-us/windows/kinect/)
-- [Leap Motion](https://www.ultraleap.com/) 
+- [Leap Motion](https://www.ultraleap.com/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [Arduino](https://www.arduino.cc/)
 
-## Learning Resources
-
+## Educational Resources
 ### Books
-
 #### Theory
 
 - [New Media Art](https://amzn.to/2nREjXO) [history]
@@ -123,44 +110,43 @@
 - [Form+Code in Design, Art, and Architecture](https://amzn.to/2oDxLdS) [history]
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://amzn.to/2nFocI1) [history]
 
-
 #### Practice
 
-- [Generative Design](https://amzn.to/2nc11cZ) [algorithms, processing, vvvv]
-- [Processing: A Programming Handbook for Visual Designers, Second Edition](https://amzn.to/2oDeB9u) [processing]
-- [Make: Getting Started with Processing, Second Edition](https://amzn.to/2nFfSrv) [processing]
-- [Make: Getting Started with p5.js](https://amzn.to/2A4hDte) [p5.js]
-- [Make: Getting Started with Processing.py](https://amzn.to/2igtIQT) [processing.py]
-- [Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction](https://amzn.to/2nYUijx) [processing]
-- [The Nature of Code: Simulating Natural Systems with Processing](https://amzn.to/2oEmafF) [processing]
+- [The Nature of Code: Simulating Natural Systems with Processing](https://natureofcode.com/)
+- [Generative Design: Visualize, Program, and Create with Processing (2012)](https://www.amazon.com/Generative-Design-Visualize-Program-Processing/dp/1616890770)
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [Generative Design: Visualize, Program, and Create with JavaScript in p5.js (2018)](https://www.amazon.com/Generative-Design-Visualize-Program-JavaScript-dp-1616897589/dp/1616897589)
+- [Processing: A Programming Handbook for Visual Designers and Artists, 2nd ed. (2014)](https://mitpress.mit.edu/books/processing-second-edition)
+- [Make: Getting Started with Processing, Second Edition](https://amzn.to/2nFfSrv)
+- [Make: Getting Started with p5.js](https://amzn.to/2A4hDte)
+- [Make: Getting Started with Processing.py](https://amzn.to/2igtIQT)
+- [Learning Processing, Second Edition: A Beginner's Guide to Programming Images, Animation, and Interaction](https://amzn.to/2nYUijx)
 - [Visualizing Data](https://amzn.to/2p2j29Y)
 - [The SparkFun Guide to Processing](https://amzn.to/2oEtQOS)
 - [Processing: Creative Coding and Generative Art in Processing 2](https://amzn.to/2nc3nrY)
 - [Processing for Visual Artists: How to Create Expressive Images and Interactive Art](https://amzn.to/2oEdTZ5) [processing]
-- [Processing: Creative Coding and Computational Art (Foundation)](https://amzn.to/2oEoPpI) [processing]
-- [The Essential Guide to Processing for Flash Developers](https://amzn.to/2oErakj) [processing]
+- [Processing: Creative Coding and Computational Art (Foundation)](https://amzn.to/2oEoPpI)
+- [The Essential Guide to Processing for Flash Developers](https://amzn.to/2oErakj)
 - [Programming Interactivity](https://amzn.to/2oK1b8h)
-- [Generative Art: A Practical Guide Using Processing](https://amzn.to/2oK64hC) [processing]
-- [Algorithms for Visual Design Using the Processing Language](https://amzn.to/2nc48kO) [processing]
+- [Generative Art: A Practical Guide Using Processing](https://amzn.to/2oK64hC)
+- [Algorithms for Visual Design Using the Processing Language](https://amzn.to/2nc48kO)
 - [Data-driven Graphic Design: Creative Coding for Visual Communication](https://amzn.to/2nYVFib)
 - [Making Things Talk: Using Sensors, Networks, and Arduino to see, hear, and feel your world](https://amzn.to/2oEaeKF)
 - [Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot](https://amzn.to/2oEm7QP)
-- [Kinect in Motion - Audio and Visual Tracking by Example](https://amzn.to/2ojB2fg) [kinect, c#]
-- [Kinect Hacks: Tips & Tools for Motion and Pattern Detection](https://amzn.to/2oANjO4) [kinect, processing, openframeworks]
-- [Beginning Microsoft Kinect for Windows SDK 2.0: Motion and Depth Sensing for Natural User Interfaces](https://amzn.to/2oDy7Bs) [kinect]
-- [Kinect for Windows SDK Programming Guide](https://amzn.to/2oDt8AJ) [kinect, c#]
+- [Kinect in Motion - Audio and Visual Tracking by Example](https://amzn.to/2ojB2fg)
+- [Kinect Hacks: Tips & Tools for Motion and Pattern Detection](https://amzn.to/2oANjO4)
+- [Beginning Microsoft Kinect for Windows SDK 2.0: Motion and Depth Sensing for Natural User Interfaces](https://amzn.to/2oDy7Bs)
+- [Kinect for Windows SDK Programming Guide](https://amzn.to/2oDt8AJ)
 - [Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java](https://amzn.to/2ok5shf) [kinect]
-- [Human Gait Recognition Using Body Measures and Joints Angles: A Study Using Microsoft Kinect](https://amzn.to/2oDmxq2) [kinect]
+- [Human Gait Recognition Using Body Measures and Joints Angles: A Study Using Microsoft Kinect](https://amzn.to/2oDmxq2)
 - [Beginning Kinect Programming with the Microsoft Kinect SDK (Expert's Voice in Microsoft)](https://amzn.to/2nRIvGY) [kinect]
-- [Arduino and Kinect Projects: Design, Build, Blow Their Minds (Technology in Action)](https://amzn.to/2oDE4yp) [kinect, arduino]
-- [Programming with the Kinect for Windows Software Development Kit (Developer Reference)](https://amzn.to/2oASRYZ) [kinect, c#]
-- [Augmented Reality with Kinect](https://amzn.to/2nRIAKD) [kinect, ar]
+- [Arduino and Kinect Projects: Design, Build, Blow Their Minds (Technology in Action)](https://amzn.to/2oDE4yp)
+- [Programming with the Kinect for Windows Software Development Kit (Developer Reference)](https://amzn.to/2oASRYZ)
+- [Augmented Reality with Kinect](https://amzn.to/2nRIAKD)
 - [Meet the Kinect: An Introduction to Programming Natural User Interfaces (Technology in Action)](https://amzn.to/2nRWdcQ) [kinect]
 - [Hacking the Kinect (Technology in Action)](https://amzn.to/2ogm0ru) [kinect]
-- [Learning Quartz Composer: A Hands-On Guide to Creating Motion Graphics with Quartz Composer](https://amzn.to/2oNmE2x) [quartz composer]
+- [Learning Quartz Composer: A Hands-On Guide to Creating Motion Graphics with Quartz Composer](https://amzn.to/2oNmE2x)
 - [Rapid Android Development: Build Rich, Sensor-Based Applications with Processing](https://pragprog.com/book/dsproc/rapid-android-development)
-- [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/product/processing-2-creative-programming-cookbook/9781849517942) [processing]
-- [Processing 2: Creative Coding Hotshot](https://www.packtpub.com/processing-2-creative-coding-hotshot/book) [processing]
 - [Getting Started with Arduino: The Open Source Electronics Prototyping Platform (Make)](https://amzn.to/2oD95Uc)
 - [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](https://amzn.to/2oK50ue)
 - [Physical Computing: Sensing and Controlling the Physical World with Computers](https://amzn.to/2oE8JMQ)
@@ -168,8 +154,7 @@
 - [Einführung ins Programmieren mit Processing (De)](https://www.lulu.com/shop/matthias-wolf/einf%C3%BChrung-ins-programmieren-mit-processing/paperback/product-22054219.html)
 - [Processing - eine Einführung in die Programmierung (De)](https://www.lulu.com/shop/andres-wanner/processing-eine-einf%C3%BChrung-in-die-programmierung-version-11/paperback/product-12095647.html)
 - [Programming for Artists (Ru) FREE](https://ptahi.ru/2016/02/07/programming-for-artists/)
-- [The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
-- [Prototyping Interfaces: Interaktives Skizzieren mit vvvv](https://amzn.to/2p7FMJy) [vvvv]
+- [Prototyping Interfaces: Interaktives Skizzieren mit vvvv](https://amzn.to/2p7FMJy)
 
 
 ### Courses
@@ -208,25 +193,16 @@
 
 ## Websites
 
-- [Creative Applications Network](https://creativeapplications.net/)
-- [OpenProcessing](https://openprocessing.org/)
 - [Create Digital Music/Motion](https://cdm.link/)
 - [Field](https://www.field.io/)
-- [Lumen](https://lumen.club/)
-
-## Selected artists
-
-- [Featured / United Visual Artists](https://uva.co.uk/)
-- [Anton Marini aka vade](http://vade.info/)
-- [Robert Hodgin aka flight404](https://roberthodgin.com/)
-- [Antivj](https://antivj.com/)
-- [onformative](https://www.onformative.com/)
 
 ## Communities
 
-- [Generative Art Slack channel](https://genart.herokuapp.com)
+- [OpenProcessing](https://openprocessing.org/)
+- [Creative Applications Network](https://creativeapplications.net/)
+- [Generative Art Slack](https://genart.herokuapp.com)
 
-## Video Channels
+## Video Channels and Livestreams
 
 - [The Coding Train by Daniel Shiffman](https://thecodingtrain.com/)
 - [AUDIO-VISUAL PERFORMANCE](https://vimeo.com/groups/avperformance)
@@ -235,15 +211,23 @@
 - [Processing group on Vimeo](https://vimeo.com/groups/processing)
 - [MadMapper group on Vimeo](https://vimeo.com/groups/madmapper)
 - [Syphon group on Vimeo](https://vimeo.com/groups/syphon)
+- [Raphaël de Courville (sableraph) on Twitch](https://www.twitch.tv/sableraph)
 
-## Work
+## Blogs and Newsletters
 
-- [Job board on creativeapplications.net](https://www.creativeapplications.net/job-board/)
-- [vj booking](https://www.vjbooking.com/)
+- [Generative Arts Collective (Chris Ried)](https://generative.substack.com/)
+
+## Marketplaces
+
+- [Hic et Nunc](https://www.hicetnunc.xyz/)
+- [Foundation](https://foundation.app/)
+- [Open Sea](https://opensea.io/)
+- [Known Origin](https://www.knownorigin.io/)
+- [Rarible](https://rarible.com)
 
 ## Events
 
-- [OFFF](https://offf.barcelona/)
+- [OFFF](https://www.offf.barcelona/)
 - [The Gray Area Festival](https://grayareafestival.io/)
 - [FIBER Festival](https://fiberfestival.nl/)
 - [Mapping Festival](https://mappingfestival.com/)
@@ -256,11 +240,11 @@
 - [Signal Festival](https://www.signalfestival.com/)
 - [La Fête des Lumières](https://www.fetedeslumieres.lyon.fr/en)
 
-## Press
+## Media
 
 - [HOLO magazine](https://www.creativeapplications.net/holo/)
 - [Make magazine](https://makezine.com/)
-- [The MagPi magazine](https://magpi.raspberrypi.org/)
+- [MagPi magazine](https://magpi.raspberrypi.org/)
 
 ## Contribute
 
@@ -270,9 +254,11 @@ Contributions are very welcome! Read the [contribution guidelines](CONTRIBUTING.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Kosmos has waived all copyright and
-related or neighboring rights to this work.
 
 ## Thanks!
 
-I hope you found this resource helpful! My name is Rob and I'm a generative artist myself so I do try to keep this up-to-date.
+I hope you found this resource helpful! My name is Rob and I'm a generative artist myself so I do try to keep this up-to-date as I find new things. I could always use more help with that so feel free to submit a pull request, file an issue (even for new ideas), or reach out on social media.
+
+Rob Baker - [rrbaker.com](https://rrbaker.com) - [Hic Et Nunc](https://rrbaker.xyz) - [Foundation](https://foundation.app/rrbaker) - [Instagram](https://instagram.com/rrbaker) - [Twitter](https://twitter.com/rrbaker)
+
+> This list originally started by [kosmos](https://github.com/kosmos/awesome-generative-art).
