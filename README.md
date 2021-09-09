@@ -1,92 +1,89 @@
-# Awesome Generative Art
+# Awesome Generative Art [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> Manually curated collection of Generative Art languages, tools, educational, and other resources.
-
-> The list is slightly (and subjectively) curated in that you'll find some resources in bold. If you're completely new to generative art, those resources are the "start here" links to help you learn and connect with other artists in this space. And, welcome! :grinning:
+A curated collection of programming languages, software, hardware, educational materials, and other resources in support of creating Generative Art and creative coding projects.
 
 ## Contents
 
 - [Tools](#tools)
-    - [Frameworks, Libraries, and Engines](#frameworks-libraries-engines)
+    - [Frameworks, libraries, and engines](#frameworks-libraries-and-engines)
     - [Software](#software)
     - [Codecs](#codecs)
     - [Seqensors](#seqensors)
     - [Sound programming languages](#sound-programming-languages)
     - [Software controllers](#software-controllers)
-    - [Other tools](#other-tools)
+    - [Video tools](#video-tools)
     - [Hardware](#hardware)
 - [Educational Resources](#educational-resources)
-    - [Books](#books)
-        - [Theory](#theory)
-        - [Practice](#practice)
+    - [Books, Theory](#books-theory)
+    - [Books, Practice](#books-practice)
     - [Courses](#courses)
-- [Video Channels and Livestreams](#video-channels-livestreams)
-- [Blogs and Newsletters](#blogs-newsletters)
-- [Marketplaces](#marketplaces)
 - [Websites](#websites)
 - [Communities](#communities)
+- [Video Channels and Livestreams](#video-channels-and-livestreams)
+- [Blogs and Newsletters](#blogs-and-newsletters)
+- [Marketplaces](#marketplaces)
+- [Events](#events) 
 - [Media](#media)
-
+- [Contribute](#contribute)
+- [Thanks](#thanks)
 
 ## Tools
 
 ### Frameworks, libraries, and engines
 
-- [Processing](https://processing.org/) - [Mac, Win, Linux, Android].
-- [Processing Python Mode](https://py.processing.org/) - [Mac, Win, Linux].
+- [Processing](https://processing.org/) - For macOS, Windows, Linux, Android.
+- [Processing Python Mode](https://py.processing.org/) - For macOS, Windows, Linux.
 - [p5.js](https://p5js.org/)
 - [Paper.js](https://paperjs.org/)
 - [three.js](https://threejs.org/)
-- [OpenFrameworks](https://openframeworks.cc/) - [Mac, Win, Linux, iOS, Android].
-- [Cinder](https://libcinder.org/) - [Mac, Win, Linux, iOS, Android].
-- [Unity](https://unity.com/) - [Mac, Win].
-- [KodeLife](https://hexler.net/kodelife) - [Mac, Win, Linux].
+- [OpenFrameworks](https://openframeworks.cc/) - For macOS, Windows, Linux, iOS, Android.
+- [Cinder](https://libcinder.org/) - For macOS, Windows, Linux, iOS, Android.
+- [Unity](https://unity.com/) - For macOS, Windows.
+- [KodeLife](https://hexler.net/kodelife) - For macOS, Windows, Linux.
 
 ### Software
 
-- [VDMX](https://vidvox.net/) [Mac]
-- [Resolume](https://resolume.com/) - [Mac, Win]
-- [Modul8](https://www.garagecube.com/modul8/) - [Mac].
-- [CoGe VJ](https://imimot.com/cogevj/) - [Mac].
-- [MadMapper](https://www.madmapper.com/) - [Mac].
-- [Mitti](https://imimot.com/mitti/) - [Mac].
-- [TouchViZ](https://hexler.net/touchviz) - [iOS].
-- [Vuo](https://vuo.org/) [Mac]
-- [Apple Core Graphics](https://developer.apple.com/documentation/coregraphics) - [Mac].
-- [vvvv](https://vvvv.org/) [Win]
-- [TouchDesigner](https://derivative.ca/) - [Mac, Win].
-- [Max](https://cycling74.com/products/max/) - [Mac, Win].
-- [Pure Data](https://puredata.info/) - [Mac, Win, Linux].
+- [VDMX](https://vidvox.net/) - For macOS.
+- [Resolume](https://resolume.com/) - For macOS, Windows.
+- [Modul8](https://www.garagecube.com/modul8/) - For macOS.
+- [CoGe VJ](https://imimot.com/cogevj/) - For macOS.
+- [MadMapper](https://www.madmapper.com/) - For macOS.
+- [Mitti](https://imimot.com/mitti/) - For macOS.
+- [TouchViZ](https://hexler.net/touchviz) - For iOS.
+- [Vuo](https://vuo.org/) - For macOS.
+- [Apple Core Graphics](https://developer.apple.com/documentation/coregraphics) - For macOS.
+- [vvvv](https://vvvv.org/) - For Windows.
+- [TouchDesigner](https://derivative.ca/) - For macOS, Win.
+- [Max](https://cycling74.com/products/max/) - For macOS, Win.
+- [Pure Data](https://puredata.info/) - For macOS, Windows, Linux.
 
 ### Codecs
 
-- [DXV codec](https://resolume.com/download/) - [Mac, Win].
-- [HAP codec](https://github.com/Vidvox/hap-qt-codec) - [Mac, Win].
+- [DXV codec](https://resolume.com/download/) - For macOS, Windows.
+- [HAP codec](https://github.com/Vidvox/hap-qt-codec) - For macOS, Windows.
 
 ### Seqensors
 
-- [Vezér](https://imimot.com/vezer/) - [Mac].
-- [Ableton Live](https://www.ableton.com/) - [Mac, Win].
+- [Vezér](https://imimot.com/vezer/) - For macOS.
+- [Ableton Live](https://www.ableton.com/) - For macOS, Windows.
 - [D3](https://www.d3technologies.com/)
 
 ### Sound programming languages
 
-- [SuperCollider](https://supercollider.sourceforge.net/) - [Mac, Win, Linux].
-- [ChucK](https://chuck.cs.princeton.edu/) - [Mac, Win, Linux].
-- [TidalCycles](https://tidalcycles.org/) - [Mac, Win, Linux].
-- [Sonic Pi](https://sonic-pi.net/) - [Mac, Win, Linux, Raspberry Pi].
-- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - [Mac, Win].
+- [SuperCollider](https://supercollider.sourceforge.net/) - For macOS, Windows, Linux.
+- [ChucK](https://chuck.cs.princeton.edu/) - For macOS, Windows, Linux.
+- [TidalCycles](https://tidalcycles.org/) - For macOS, Windows, Linux.
+- [Sonic Pi](https://sonic-pi.net/) - For macOS, Windows, Linux, RaspberryPi.
+- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - For macOS, Windows.
 
 ### Software controllers
 
-- [TouchOSC](https://hexler.net/touchosc) - [iOS, Android].
+- [TouchOSC](https://hexler.net/touchosc) - For iOS, Android.
 
 ### Video tools
 
-- [Syphon](https://syphon.v002.info/) - [Mac].
-- [Spout](https://spout.zeal.co/) - [Win].
+- [Syphon](https://syphon.v002.info/) - For macOS.
+- [Spout](https://spout.zeal.co/) - For Windows.
 
 ### Hardware
 
@@ -168,7 +165,7 @@
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
 - [Creative Coding](https://www.futurelearn.com/courses/creative-coding/)
 - [Survey of Music Technology](https://www.coursera.org/learn/music-technology)
-- [Learn to Code Electronic Music Tools with Javascript](https://www.futurelearn.com/courses/electronic-music-tools)
+- [Learn to Code Electronic Music Tools with JavaScript](https://www.futurelearn.com/courses/electronic-music-tools)
 - [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 - [Machine Learning for Artists](https://ml4a.github.io/index/)
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
@@ -255,4 +252,4 @@ I hope you found this resource helpful! My name is Rob and I'm a generative arti
 
 Rob Baker - [rrbaker.com](https://rrbaker.com) - [Hic Et Nunc](https://rrbaker.xyz) - [Foundation](https://foundation.app/rrbaker) - [Instagram](https://instagram.com/rrbaker) - [Twitter](https://twitter.com/rrbaker)
 
-> This list originally started by [kosmos](https://github.com/kosmos/awesome-generative-art).
+*This list originally started by [kosmos](https://github.com/kosmos/awesome-generative-art).*
