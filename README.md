@@ -56,6 +56,7 @@ A curated collection of programming languages, software, hardware, educational m
 - [TouchDesigner](https://derivative.ca/) - For macOS, Win.
 - [Max](https://cycling74.com/products/max/) - For macOS, Win.
 - [Pure Data](https://puredata.info/) - For macOS, Windows, Linux.
+- [World Machine](https://www.world-machine.com/) - For Windows. 
 
 ### Codecs
 
