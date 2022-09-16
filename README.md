@@ -216,11 +216,12 @@ A curated collection of programming languages, software, hardware, educational m
 
 ## Marketplaces
 
-- [Hic et Nunc](https://www.hicetnunc.xyz/)
-- [Foundation](https://foundation.app/)
-- [Open Sea](https://opensea.io/)
-- [Known Origin](https://www.knownorigin.io/)
-- [Rarible](https://rarible.com)
+- [Foundation](https://foundation.app/) - Ethereum.
+- [Open Sea](https://opensea.io/) - Ethereum.
+- [Known Origin](https://www.knownorigin.io/) - Ethereum.
+- [Rarible](https://rarible.com) - Ethereum.
+- [(fx)hash](https://fxhash.xyz) - Tezos.
+- [Teia](https://teia.art) - Tezos.
 
 ## Events
 
